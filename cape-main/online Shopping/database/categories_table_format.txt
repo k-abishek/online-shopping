@@ -1,0 +1,5 @@
+﻿id	name
+8	Book
+6	Electronics
+7	Fashion
+5	Food
